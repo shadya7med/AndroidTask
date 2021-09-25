@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LibraryTask</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_for_documents">Search for documents</string>
+    <string name="title_placeholder">The Lords of the Ring</string>
+    <string name="details">Details</string>
+    <string name="search">Search</string>
+</resources>
